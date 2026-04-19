@@ -1,9 +1,10 @@
 {
   "owner": {
-    "username": "S4IL21",
-    "email": "s4il.is.a.dev@gmail.com"
+    "username": "savemeours",
+    "email": "savescripts@gmail.com"
   },
   "records": {
-    "CNAME": "s4il21.github.io"
+    "NS": "destiny.ns.cloudflare.com",
+    "NS": "thaddeus.ns.cloudflare.com"
   }
 }
