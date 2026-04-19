@@ -1,10 +1,8 @@
 {
-  "owner": {
-    "username": "savemeours",
-    "email": "savescripts@gmail.com"
-  },
-  "records": {
-    "NS": "destiny.ns.cloudflare.com",
-    "NS": "thaddeus.ns.cloudflare.com"
-  }
+    "owner": {
+        "username": "savemeours"
+    },
+    "records": {
+        "TXT": "dh=bfc7146764898982461515b1ba66226b6d142fd1"
+    }
 }
